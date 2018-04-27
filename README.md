@@ -1,1 +1,1 @@
-# test quick AND simple.
+# test quick & simple.

@@ -4,8 +4,7 @@ bbbb bbbb
 
 cccc    mmmm + pppp
 
-dddd    dddd
-eeee    modified by albert
+eeee    modified by albert & fixed conflict
 
 
 dev merge master

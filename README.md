@@ -5,7 +5,7 @@ bbbb bbbb
 cccc    mmmm + pppp
 
 dddd    dddd
-eeee    pppppppp
+eeee    modified by another
 
 
 dev merge master
